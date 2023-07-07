@@ -1,0 +1,21 @@
+.find{
+    background-color: #00ff00;
+}
+h1{
+    padding: 10px;
+   border: 2px dashed #ff0000;
+   margin: 25px;
+}
+.content {
+    display: inline-block;
+    width: 350px;
+    height: 220px;
+    background-color: rgb(255, 0, 0);
+    margin: 20px;
+    padding: 30px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border: 2px dashed #000000;
+}
